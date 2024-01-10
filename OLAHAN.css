@@ -1,0 +1,128 @@
+body{
+    background-image: url(cream.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.box-keju{
+    text-align: center;
+    font-size: 25px;
+    font-family: helvetica;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+    align-content: center;
+}
+.box-kiri{
+    width: 1300px;
+    height: 120px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-tengah{
+    width: 1300px;
+    height: 180px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-kanan{
+    width: 1300px;
+    height: 160px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-cara{
+    text-align: center;
+    font-size: 15px;
+    font-family: helvetica;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+    align-content: center;
+}
+.box-faseke4{
+    width: 1300px;
+    height: 160px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-fase5{
+    width: 1300px;
+    height: 160px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-fase4{
+    width: 1300px;
+    height: 160px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-akhir{
+    text-align: center;
+    font-size: 15px;
+    font-family: helvetica;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+    align-content: center;
+}
+.box-fase6{
+    width: 1300px;
+    height: 160px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+.box-fase7{
+    width: 1300px;
+    height: 160px;
+    background-color:rgba(248, 165, 70, 0.773);
+    text-align: center;
+    font-size: 15px;
+    font-family: arial;
+    padding: 30px 30px;
+    margin: 70px 30px 30px 70px;
+    border-radius: 10px;
+    float: left;
+}
+ 

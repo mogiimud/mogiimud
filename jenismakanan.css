@@ -1,0 +1,18 @@
+*
+.box-keju{
+    text-align: center;
+    color: rgb(72, 61, 61);
+    margin-top: 30px;
+    align-content: center;
+}
+.box-kiri, .box-tengah, .box-kanan, .box-martabak, .box-pizza, .box-donat, .box-bubur, .box-corndog, .box-udang {
+    width: 350px;
+    height: 300px;
+    background-color:rgb(126, 192, 143);
+    text-align: center;
+    padding: 30px 30px;
+    margin: 70px 20px 20px 55px;
+    border-radius: 10px;
+    float: left;
+}
+
